@@ -7,7 +7,7 @@ import java.nio.charset.StandardCharsets;
 import java.util.Base64;
 /**
  * description:描述
- * author: 河发
+ * author: 河发j
  * time: 19:04
  */
 public class email {
